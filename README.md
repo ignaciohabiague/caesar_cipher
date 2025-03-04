@@ -1,1 +1,1 @@
-# caesar_cipher
+A Caesar cipher done in Ruby: it takes the string chain and the shift value to cipher the text accordingly.
